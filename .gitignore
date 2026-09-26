@@ -12,3 +12,5 @@ dist/
 *.pkl
 eco_settings.json
 brains/
+# 演示视频（托管在 GitHub Release 中，不入库）
+demo.mp4
